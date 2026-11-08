@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>行思之間_活在當下</title>
+    <link href="https://aihwai.github.io/feed.xml" rel="self" />
+    <link href="https://aihwai.github.io" />
+    <updated>2026-11-08T11:10:18+08:00</updated>
+    <author>
+        <name>林果倫</name>
+    </author>
+    <id>https://aihwai.github.io</id>
+
+    <entry>
+        <title>NO 1</title>
+        <author>
+            <name>林果倫</name>
+        </author>
+        <link href="https://aihwai.github.io/no-1/"/>
+        <id>https://aihwai.github.io/no-1/</id>
+
+        <updated>2026-11-08T11:10:18+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    thejstls;kf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>thejstls;kf</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
