@@ -3,14 +3,59 @@
     <title>行思之間_活在當下</title>
     <link href="https://aihwai.github.io/feed.xml" rel="self" />
     <link href="https://aihwai.github.io" />
-    <updated>2026-11-08T11:10:18+08:00</updated>
+    <updated>2026-11-08T17:00:37+08:00</updated>
     <author>
         <name>林果倫</name>
     </author>
     <id>https://aihwai.github.io</id>
 
     <entry>
-        <title>NO 1</title>
+        <title>AI USE</title>
+        <author>
+            <name>林果倫</name>
+        </author>
+        <link href="https://aihwai.github.io/ai-use/"/>
+        <id>https://aihwai.github.io/ai-use/</id>
+
+        <updated>2026-11-08T13:03:08+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    協助整理文章的標題、日期、作者、分類、標籤與內容，並製作 Publii WP Importer 可以讀取的 WXR/XML 匯入檔案，供您在 Windows 11 上測試。 建議先在 Tools&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>協助整理文章的標題、日期、作者、分類、標籤與內容，並製作 Publii WP Importer 可以讀取的 WXR/XML 匯入檔案，供您在 Windows 11 上測試。</p>
+<p> </p>
+<p><span data-d-stream-run="" data-d-text-flow="run">建議先在 </span><span class="TextBase-hXhSqg Text-lIMP0_" data-d-text-flow="" data-d-component="text" data-d-default-strong="" data-d-inline=""><span data-d-stream-run="" data-d-text-flow="run">Tools → Backups</span></span><span data-d-stream-run="" data-d-text-flow="run"> 建立備份。<br><br></span></p>
+<p>分類</p>
+<p>醫學與生命</p>
+<p>標籤</p>
+<p>失智症、安寧緩和、家庭照護</p>
+<p>文章摘要</p>
+<p>介紹失智症末期常見的照護選擇</p>
+<p>文章內容</p>
+<p>完整內文</p>
+<pre dir="ltr"><code>D:\我的文章
+│
+├── 醫學與生命
+│   ├── 安寧緩和醫療.docx
+│   ├── 失智症與拒食.docx
+│   └── 預立醫療照護諮商.docx
+│
+├── 教學與科技
+│   ├── AI與醫學教育.docx
+│   └── 同理心教學.docx
+│
+└── 閱讀與生活
+    ├── 生命的意義.docx
+    └── 旅行隨筆.docx<br><br><br>原始文章 → 批次整理與格式轉換 → Publii 匯入 → Mono 主題呈現 → GitHub Pages 發布</code></pre>
+<p><span data-d-stream-run="" data-d-text-flow="run"> </span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>關於本站</title>
         <author>
             <name>林果倫</name>
         </author>
