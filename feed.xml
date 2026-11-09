@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>行思之間|活在當下</title>
+    <title>行思之間 | 活在當下</title>
     <link href="https://aihwai.github.io/feed.xml" rel="self" />
     <link href="https://aihwai.github.io" />
-    <updated>2026-11-08T22:27:17+08:00</updated>
+    <updated>2026-11-08T22:36:47+08:00</updated>
     <author>
-        <name>林果倫</name>
+        <name>MHLIN</name>
     </author>
     <id>https://aihwai.github.io</id>
 
     <entry>
         <title>202610_社區安寧療護與社區生命末期老人照護之現況</title>
         <author>
-            <name>林果倫</name>
+            <name>MHLIN</name>
         </author>
-        <link href="https://aihwai.github.io/blog/202610_she-qu-an-zhu-liao-hu-yu-she-qu-sheng-ming-mo-qi-lao-ren-zhao-hu-zhi-xian-kuang/"/>
-        <id>https://aihwai.github.io/blog/202610_she-qu-an-zhu-liao-hu-yu-she-qu-sheng-ming-mo-qi-lao-ren-zhao-hu-zhi-xian-kuang/</id>
+        <link href="https://aihwai.github.io/blog/202610_nycu_community_palliative_care/"/>
+        <id>https://aihwai.github.io/blog/202610_nycu_community_palliative_care/</id>
+            <category term="高齡失智與安寧緩和"/>
+            <category term="醫療政策與社區健康"/>
+            <category term="9.簡報講義下載"/>
+            <category term="2.教學與科技"/>
+            <category term="1.醫學與生命"/>
 
         <updated>2026-11-08T22:25:03+08:00</updated>
             <summary type="html">
@@ -39,7 +44,7 @@
     <entry>
         <title>123</title>
         <author>
-            <name>林果倫</name>
+            <name>MHLIN</name>
         </author>
         <link href="https://aihwai.github.io/blog/123/"/>
         <id>https://aihwai.github.io/blog/123/</id>
@@ -53,7 +58,7 @@
     <entry>
         <title>4.5.6</title>
         <author>
-            <name>林果倫</name>
+            <name>MHLIN</name>
         </author>
         <link href="https://aihwai.github.io/blog/456/"/>
         <id>https://aihwai.github.io/blog/456/</id>
@@ -72,7 +77,7 @@
     <entry>
         <title>2.</title>
         <author>
-            <name>林果倫</name>
+            <name>MHLIN</name>
         </author>
         <link href="https://aihwai.github.io/blog/2/"/>
         <id>https://aihwai.github.io/blog/2/</id>
@@ -88,7 +93,7 @@
     <entry>
         <title>1.</title>
         <author>
-            <name>林果倫</name>
+            <name>MHLIN</name>
         </author>
         <link href="https://aihwai.github.io/blog/1/"/>
         <id>https://aihwai.github.io/blog/1/</id>
