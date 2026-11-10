@@ -10,9 +10,9 @@
     },
     "items": [
         {
-            "id": "https://aihwai.github.io/blog/202610_nycu_community_palliative_care-2/",
-            "url": "https://aihwai.github.io/blog/202610_nycu_community_palliative_care-2/",
-            "title": "20261102社區生命末期老人照護之現況",
+            "id": "https://aihwai.github.io/blog/202610_nycu_community_palliative_care-4/",
+            "url": "https://aihwai.github.io/blog/202610_nycu_community_palliative_care-4/",
+            "title": "20261102社區生命末期老人照護之現況 (copy)",
             "summary": "線上閱讀：社區安寧療護與社區生命末期老人照護之現況教學檔案 在新視窗開啟 PDF 📖 點此下載完整 PDF 📖 點此下載完整 PDF",
             "content_html": "<p>線上閱讀：社區安寧療護與社區生命末期老人照護之現況教學檔案</p>\n<div style=\"width: 100%; margin: 20px 0;\">\n<div class=\"post__iframe\"><iframe width=\"100%\" height=\"850\" style=\"border: 1px solid #ddd;\" src=\"https://aihwai.github.io/media/files/202610A_NYCU_community_palliative_care.pdf#toolbar=1\" loading=\"eager\" title=\"課程講義 PDF 線上閱讀\">\n  </iframe></div>\n<p><a href=\"https://aihwai.github.io/media/files/202610A_NYCU_community_palliative_care.pdf\" target=\"_blank\" rel=\"noopener\"> 在新視窗開啟 PDF </a></p>\n</div>\n<p><a href=\"https://aihwai.github.io/media/files/202610A_NYCU_community_palliative_care.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> 📖 點此下載完整 PDF </a></p>\n<h3>課程講義｜PDF 線上閱讀</h3>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"850\" style=\"border: 1px solid #ccc;\" src=\"https://aihwai.github.io/media/files/202610B_NYCU_community_palliative_care.pdf\" title=\"社區安寧療護課程\">\n\t</iframe></div>\n<p><a href=\"https://aihwai.github.io/media/files/202610B_NYCU_community_palliative_care.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> 📖 點此下載完整 PDF </a></p>",
             "author": {
@@ -25,8 +25,27 @@
                    "2.教學與科技",
                    "1.醫學與生命"
             ],
+            "date_published": "2026-11-10T16:10:00+08:00",
+            "date_modified": "2026-11-10T16:30:26+08:00"
+        },
+        {
+            "id": "https://aihwai.github.io/blog/202610_nycu_community_palliative_care-2/",
+            "url": "https://aihwai.github.io/blog/202610_nycu_community_palliative_care-2/",
+            "title": "20261102社區生命末期老人照護之現況",
+            "summary": "線上閱讀：社區安寧療護與社區生命末期老人照護之現況教學檔案 📖 點此下載完整 PDF 📖 點此下載完整 PDF",
+            "content_html": "<p>線上閱讀：社區安寧療護與社區生命末期老人照護之現況教學檔案</p>\n<div style=\"width: 100%; margin: 20px 0;\">\n<div class=\"post__iframe\"><iframe width=\"100%\" height=\"900\" style=\"border: 0;\" src=\"https://aihwai.github.io/media/files/202610A_NYCU_community_palliative_care.pdf\" loading=\"eager\" title=\"PDF 線上閱讀\">\n  </iframe></div>\n</div>\n<p><a href=\"https://aihwai.github.io/media/files/202610A_NYCU_community_palliative_care.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> 📖 點此下載完整 PDF </a></p>\n<h3>課程講義｜PDF 線上閱讀</h3>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"850\" style=\"border: 1px solid #ccc;\" src=\"https://aihwai.github.io/media/files/202610B_NYCU_community_palliative_care.pdf\" title=\"社區安寧療護課程\">\n\t</iframe></div>\n<p><a href=\"https://aihwai.github.io/media/files/202610B_NYCU_community_palliative_care.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> 📖 點此下載完整 PDF </a></p>",
+            "author": {
+                "name": "Ming-Hwai Lin"
+            },
+            "tags": [
+                   "高齡失智與安寧緩和",
+                   "醫療政策與社區健康",
+                   "9.簡報講義下載",
+                   "2.教學與科技",
+                   "1.醫學與生命"
+            ],
             "date_published": "2026-11-10T11:37:24+08:00",
-            "date_modified": "2026-11-10T16:05:01+08:00"
+            "date_modified": "2026-11-10T16:27:05+08:00"
         },
         {
             "id": "https://aihwai.github.io/blog/202610_nycu_community_palliative_care/",
