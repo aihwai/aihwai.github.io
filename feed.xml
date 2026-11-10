@@ -714,37 +714,4 @@
             ]]>
         </content>
     </entry>
-    <entry>
-        <title>123</title>
-        <author>
-            <name>MHLIN</name>
-        </author>
-        <link href="https://aihwai.github.io/blog/123/"/>
-        <id>https://aihwai.github.io/blog/123/</id>
-            <category term="2.教學與科技"/>
-            <category term="1.醫學與生命"/>
-
-        <updated>2026-11-08T17:27:21+08:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>4.5.6</title>
-        <author>
-            <name>MHLIN</name>
-        </author>
-        <link href="https://aihwai.github.io/blog/456/"/>
-        <id>https://aihwai.github.io/blog/456/</id>
-            <category term="高齡失智與安寧緩和"/>
-            <category term="醫療政策與社區健康"/>
-            <category term="醫學教育"/>
-            <category term="身心靈與健康"/>
-            <category term="慈心正念之道"/>
-            <category term="AI 與數位工具"/>
-            <category term="3.閱讀與生活"/>
-
-        <updated>2026-11-08T17:15:22+08:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>
